@@ -30,9 +30,6 @@
 ### Backend Development | Data Science | Mobile Applications
 --------
 
-
-###  :woman_technologist: 
-
 ### 👩‍💻 About Me:
 
 - 🎓 Recent Computer Engineering graduate from Turkey.

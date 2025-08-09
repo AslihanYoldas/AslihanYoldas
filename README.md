@@ -34,7 +34,7 @@
 
 - 🎓 Recent Computer Engineering graduate from Turkey.
 - 🔭 Passionate about **backend development**, REST API design, and database integration.
-- 🧠 Experienced with Java, Spring Boot, Python, Flask, PostgreSQL, and SQLite.
+- 🧠 Experienced with Java, Spring Boot, Python, Flask, PostgreSQL.
 - 📱 Developed mobile applications in Kotlin, Java, and Flutter.
 - 🤖 Created NLP and deep learning applications using TensorFlow, Keras, and scikit-learn.
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aslihanyoldas/)
@@ -47,7 +47,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" width="40" height="40"/>&nbsp;

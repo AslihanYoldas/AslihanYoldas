@@ -27,16 +27,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Backend Development | Data Science | Mobile Applications
+### Software Development | Artificial Intelligence | Data Science | Mobile Applications 
 --------
 
 ### 👩‍💻 About Me:
 
 - 🎓 Recent Computer Engineering graduate from Turkey.
-- 🔭 Passionate about **backend development**, REST API design, and database integration.
+- 🔭 Passionate about **software development**.
 - 🧠 Experienced with Java, Spring Boot, Python, Flask, PostgreSQL.
 - 📱 Developed mobile applications in Kotlin, Java, and Flutter.
-- 🤖 Created NLP and deep learning applications using TensorFlow, Keras, and scikit-learn.
+- 🤖 Enthusiastic about AI and data science, with hands-on experience in NLP and deep learning using TensorFlow, Keras, and scikit-learn.
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aslihanyoldas/)
 
   

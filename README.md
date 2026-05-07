@@ -29,7 +29,6 @@
 
 ### Full-Stack Developer | Vue.js • Node.js • Express.js | AI Integration | NLP
 
---------
 
 ### 👩‍💻 About Me:
 
@@ -41,18 +40,6 @@
 - 🌱 Interested in scalable systems, backend architecture, and AI-powered products
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aslihanyoldas/)
 ---
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aslihanyoldas/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@aslihanyoldas24">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
   
 ## 🛠 Tech Stack
 
@@ -92,12 +79,6 @@
 ---
 
 </div>
-<br/><br/>
-
-<br/><br/>
-<div align="center">
-
-![](https://ghstats.dev/api/top-langs?username=AslihanYoldas&layout=compact&theme=github_dark)
 
 
 <!--

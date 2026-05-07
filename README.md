@@ -74,6 +74,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" width="40" height="40"/>&nbsp;
 </div>
 
 ---
